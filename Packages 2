@@ -1,0 +1,1599 @@
+Package: apt.tinyapps.AntiTracker
+Version: 2.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/apt.tinyapps.AntiTracker_2.0_iphoneos-arm.deb
+Size: 2836810
+MD5sum: 90f7d646aa7e9f77b21472c4038c80f2
+SHA1: 8017e6e9415613b8f73be664c0a748f249547da8
+SHA256: da9aa18cfed9bfa14eaac4448288b8b882677b9a0f0dacdd618fd7728c6f3485
+Section: System
+Priority: optional
+Description: Notifies you immediately when tracked by others via [FindMyiPhone] or [FindMyFriends], and stores all tracking records as well, running in BACKGROUND。for all iOS devices running iOS 5.1.1~14.2, including iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12.实时监控他人通过【查找我的iPhone】或【查找朋友】对您的查岗，报警并存档。可配置报警内容及报警铃声，并自动存储所有查岗记录。后台运行，持续监控。支持所有越狱系统(5.1.1~14.2)及设备(iPhone/iPad/iPod Touch)。NOTE：if it does not work, please reboot your device.注意：如果不生效请手动重启一次设备
+Author: ShaneWen
+Name: AntiTracker(查岗报警器)-Alerts you when tracked by others in real time
+
+Package: apt.tinyapps.AntiTracker
+Version: 2.0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/apt.tinyapps.AntiTracker_2.0.1_iphoneos-arm.deb
+Size: 2884726
+MD5sum: f577daaf9036189ecb3a83c7c187ef93
+SHA1: 97db326adf0c3a45bb0f3fd0ac68893462072602
+SHA256: 351fb768986c1b41d4c23f282d23a00ee11790973c81394117c3f91f3a113b95
+Section: System
+Priority: optional
+Description: Notifies you immediately when tracked by others via [FindMyiPhone] or [FindMyFriends], and stores all tracking records as well, running in BACKGROUND。for all iOS devices running iOS 5.1.1~14.2, including iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12.实时监控他人通过【查找我的iPhone】或【查找朋友】对您的查岗，报警并存档。可配置报警内容及报警铃声，并自动存储所有查岗记录。后台运行，持续监控。支持所有越狱系统(5.1.1~14.2)及设备(iPhone/iPad/iPod Touch)。NOTE：if it does not work, please reboot your device.注意：如果不生效请手动重启一次设备
+Author: ShaneWen
+Name: AntiTracker(查岗报警器)-Alerts you when tracked by others in real time
+
+Package: apt.tinyapps.AntiTracker.rootless
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/apt.tinyapps.AntiTracker.rootless_2.0.2_iphoneos-arm64.deb
+Size: 1464646
+MD5sum: 53b0182bf0cac4ed33a9ba33f12469d3
+SHA1: dbc4a396f8088f22a0031c220416e49f8200c8cf
+SHA256: e8eb2266c053166d9645b0a1951d031ce377ee056a4b2ec046b8fcef8a3b9bd9
+Section: System
+Priority: optional
+Description: 【For Rootless无根越狱，如Dopamine,palera1n,Fugu15,etc】 Notifies you immediately when tracked by others via [FindMyiPhone] or [FindMyFriends], and stores all tracking records as well, running in BACKGROUND。for all iOS devices running iOS 5.1.1~16.5.1, including iPhone 6/6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12.实时监控他人通过【查找我的iPhone】或【查找朋友】对您的查岗，报警并存档。可配置报警内容及报警铃声，并自动存储所有查岗记录。后台运行，持续监控。支持所有越狱系统(5.1.1~16.5.1)及设备(iPhone/iPad/iPod Touch)。NOTE：if it does not work, please reboot your device.注意：如果不生效请手动重启一次设备
+Author: ShaneWen
+Name: AntiTracker(查岗报警器)-Alerts you when tracked by others in real time
+
+Package: apt.tinyapps.RST
+Version: 2.3.10
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.10_iphoneos-arm64e.deb
+Size: 7522384
+MD5sum: 41f1850b37978ebbb9c8c6207fd9638f
+SHA1: c6d7a26eaccc611457bbff6109cb039eab9224e1
+SHA256: 4a12ef6ab61aa8b32306c92c6b457d0f71735a692a3d155de2004a393b498375
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: Support Dopamine, Bootstrap, Serotonin。支持Dopamine, Bootstrap, Serotonin。MultiAccount Master(361一键新机)-RootHide越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-RootHide无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.10
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.10_iphoneos-arm64.deb
+Size: 7521928
+MD5sum: 9003961ca03853fbf02955328affb283
+SHA1: e1317a69bc983bf44da050fa14688e4c72f6fcd2
+SHA256: bc514239f2a8bab388c662316010255d343350cd4ac6bad047c842e12d49d70a
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.10
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.10_iphoneos-arm.deb
+Size: 4057384
+MD5sum: 458c26b73de2985677e162614b7fa247
+SHA1: 56f1e6a444ed89bf1afd475d120913a70e348589
+SHA256: 308d0f9e8ea26e1dadd56d4da8d5ab38c2229fa6ccce6412d790a0bf16b819b3
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.12
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.12_iphoneos-arm.deb
+Size: 4080520
+MD5sum: f3c868ca18188e44aa3648f3d1098b26
+SHA1: 4a790aae9e295b4f6caba173ce64bb693645dddc
+SHA256: 0abf91d5b29df6e10a11c3a50c7942926a5ba7a3376d46efdeac9e69ff66d659
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.13
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.13_iphoneos-arm64.deb
+Size: 7522086
+MD5sum: 47427b6622ada55e8b876a559f068dc8
+SHA1: 4b9c3dd14cbdd7941c5ad6d8f13cc0f6b8a7c263
+SHA256: 828559402777ccde744fa41797639fec2738fc3743a002e8080a06d03730a3a3
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.13
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.13_iphoneos-arm64e.deb
+Size: 7522170
+MD5sum: a7c0dc20310e26c2bae3713c060c77af
+SHA1: db671a164484d9b0877d8f604b883968d1079e1f
+SHA256: af6798f8541bfa77feac3bd8cecd3e93c54e40bd081c73c226389ac28795e9e4
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: Support Dopamine, Bootstrap, Serotonin。支持Dopamine, Bootstrap, Serotonin。MultiAccount Master(361一键新机)-RootHide越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-RootHide无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.13
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.13_iphoneos-arm.deb
+Size: 4412034
+MD5sum: be704d359029e65ae7d306842e8eebcb
+SHA1: ed48b86f879da1eb39b5093385d1533bf22d7b99
+SHA256: e96aba056d61095549d80edea0d8f3fd0797fa9a7f4efd409e45ec1cc55b2196
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.5
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.5_iphoneos-arm64.deb
+Size: 7517202
+MD5sum: 5bfc04115be963270a2fadf118a5dfc0
+SHA1: fcc4117379de6e8ea149732be96b71421b8baea7
+SHA256: b055baf72d9be83528a7d756cb2b9d2e033a8b7dff0ea36b2228ae4ee4ce6939
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.5
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.5_iphoneos-arm64e.deb
+Size: 7513430
+MD5sum: a0df5d8dbf885930669b9c11858660e0
+SHA1: 9d42c6475cccd1583f122e7651da90396ac0bb95
+SHA256: 67bbe517008ffaceb4cf208454ad14c5bce5e7cffc3f5a71a9bab2f073b9de24
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: Support Dopamine, Bootstrap, Serotonin。支持Dopamine, Bootstrap, Serotonin。MultiAccount Master(361一键新机)-RootHide越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-RootHide无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.5
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.5_iphoneos-arm.deb
+Size: 4404618
+MD5sum: 1a8cd7042e336c70445fe72c136cad6e
+SHA1: b146a1fbe1dde2da49b1dc8aed5e6ebfb16516f8
+SHA256: da0d87d038d8577cf5cb97a845b5c9ba7eb54fb72ccbedfdbd2de84c4c013fdb
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.6
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.6_iphoneos-arm.deb
+Size: 4383608
+MD5sum: 059460c752c890f517cc6ad10572f121
+SHA1: 0b9c29f228a3d998c281c1032565d0009a008377
+SHA256: 220148783a1cdbde252d98d370b1b57b807143bd9a9e59015da1a5b15192de60
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.6
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.6_iphoneos-arm64.deb
+Size: 7497170
+MD5sum: 178842e39c58af5cdb25a085aff5f478
+SHA1: 9c658453c3504f1798cb473c81b1e29e6396b405
+SHA256: 13db9f5c019626a641c6f091b8551b7e778aa1c3f6b7c1fe80f8e8ad2d137e4b
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.7
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.7_iphoneos-arm.deb
+Size: 4383562
+MD5sum: f290b4b497039166a2b753c14e9ee52e
+SHA1: 07175bf83e9169a06ef293a6a92c63e0afdf0a02
+SHA256: b633b0d56757c66a541b56407cb8628b1d077b1cd312bba1aa96d694c7e8ef27
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.7
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.7_iphoneos-arm64.deb
+Size: 7497280
+MD5sum: b4412b95f12406bd4734140d16e6336e
+SHA1: b08a4d4b5479e34a92fbbe039fa311ea4ed4c03e
+SHA256: 79d9bbcf6d10720071daa0b66ace55b488a7d14ccad7fe0bc7f17d34008b624d
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.8
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.8_iphoneos-arm64.deb
+Size: 7517130
+MD5sum: 3027db6a43f1078989898f990cb9f4bf
+SHA1: 68089b30ae593cd4a6e4efae1394ff9a8931c984
+SHA256: 395de89642b5435dec56a0f4088b02b5b319354cfb21de8c876c6667df1ef83c
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.8
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.8_iphoneos-arm.deb
+Size: 4404604
+MD5sum: a1fdc64d2d2e20300252c56e7ab8c1a8
+SHA1: 0fe283b93ba3dcfc8175e0f45c6cb4f662d2f9e0
+SHA256: 01d588549f38fe7e26a1c4a9aeeae1434802f6ac7c005feca8cbac7326d04e05
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.3.8
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.8_iphoneos-arm64e.deb
+Size: 7513450
+MD5sum: 1979030e4995602e9cb13e38dd03d9f6
+SHA1: bd8a650c159533098d86c8a3e423baf05fd61ec4
+SHA256: 65067983ef663c511c024db7d54162454ea7502de8318e5be9e0763b451a5469
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: Support Dopamine, Bootstrap, Serotonin。支持Dopamine, Bootstrap, Serotonin。MultiAccount Master(361一键新机)-RootHide越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-RootHide无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4_iphoneos-arm64e.deb
+Size: 7523514
+MD5sum: 53049b548c3671bd457685de17bc2603
+SHA1: 4b5630dd3ce9fda86c88bec27e651d756c5c8e3d
+SHA256: 0af4de128df6221d8b3220e366be08a7637d5cd4e28a61bcc39e3845d5ad1d53
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: Support Dopamine, Bootstrap, Serotonin。支持Dopamine, Bootstrap, Serotonin。MultiAccount Master(361一键新机)-RootHide越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-RootHide无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4_iphoneos-arm.deb
+Size: 4393400
+MD5sum: 0e3befb69f7f0a64c11451ee638280fb
+SHA1: b80ae4bb10162b53f450f2ce2c2e3052786a3482
+SHA256: d9b48df951accb2ca1526ace8b8d3333dc0b305d59aefad86c12f55bca5eb803
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4_iphoneos-arm64.deb
+Size: 7499796
+MD5sum: a806df2e0943f0359ef2077c5ab0e659
+SHA1: 7903e4e98343ca2a772b0d93f9c6ff59cfe4204d
+SHA256: 688510669f97b29837d3a473d0168506cf6a39efe5673165dc13bc303601e320
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1_iphoneos-arm.deb
+Size: 4412514
+MD5sum: 0b448ecdf5dafbd031e145ae4fc170e3
+SHA1: 0ed3e513aea508108bdbc6c11ce12435f8ea73dd
+SHA256: b9ee86556f89e6bc8586bf470dc5e518aad60bdd0a82f65625c553d5e8983661
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1_iphoneos-arm64.deb
+Size: 7741702
+MD5sum: 5c7f588b9e7c2682d88e1e057922f061
+SHA1: 4e4814e5b5212c548c76d6ff4bfd32ca90e5eda8
+SHA256: 56fe3e58ad2c7974c17eaa474af0a50a19e0fadf9bc406c50bf030e943b118ea
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1_iphoneos-arm64e.deb
+Size: 7500802
+MD5sum: d6831644c4bace350cf4b9dec4fa7c72
+SHA1: 45ca9528c540c412f364e8c81bc3acbce42983dc
+SHA256: eeb29cbf2b66e8a3aa7ad5cba7cf085f30b0a892fda55b0d3d71a2149754f9dd
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: Support Dopamine, Bootstrap, Serotonin。支持Dopamine, Bootstrap, Serotonin。MultiAccount Master(361一键新机)-RootHide越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-RootHide无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1.1
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1.1_iphoneos-arm64.deb
+Size: 7741108
+MD5sum: 5a1c58add2677e488ec9523fef9ce004
+SHA1: 2e76657a425f2198ef429ad46c7175f9acb53fce
+SHA256: 6aac87d8f15ec976310c24a059e5fc3a0c8db54c8446580ef33d73ba8fcdb4e1
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1.1
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1.1_iphoneos-arm.deb
+Size: 4412524
+MD5sum: dda7d92b3e74d3e6954bff6740b4047d
+SHA1: 23d430e1c85d46f47a1e968e9b01bc5dfd6a5b31
+SHA256: fbbe8aa73627f503b82001ebfce1641f07f49b50ba1fb6d03861fccc7b22b800
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1.2
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1.2_iphoneos-arm.deb
+Size: 4146244
+MD5sum: f3b89911746c490bc53d4bdb17dcd944
+SHA1: d271237250b4b8aa86e3fb99151e54bdd6b7a289
+SHA256: 5639caf99407b433316a78aaa1471befbcbad7950a0302c3fbda00b0a2f5e5ca
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1.2
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1.2_iphoneos-arm64.deb
+Size: 7741684
+MD5sum: 5d5d248cb0dcaa1e045c2c5dfa4a72d5
+SHA1: efea3208f5519578d9e90ce1ab7c849f07fc1613
+SHA256: ecfa9555aa8e3b1942aba16b17b94b13d1b643812066f7720b70bc9ccbf82ff7
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1.3
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1.3_iphoneos-arm.deb
+Size: 4460464
+MD5sum: 664478cc4ec8f128525d1248dd2971f0
+SHA1: 8dff30c1bec1062def2c1859d0975a11a5956ec3
+SHA256: 9e6dc8a2013b417e4b0a5587039ea16095e6fb04877116214856918f5e7acad3
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1.3
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1.3_iphoneos-arm64.deb
+Size: 7706892
+MD5sum: 7f170bec8c06e418a2bccf87d5954714
+SHA1: 1553ca0669afdc8b60a51f1de8e76d70b187e91d
+SHA256: f48fcb363576b3a3a6ad95f2973aaa8cb43078c5dd1d0c9d588f3844cc448015
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.2
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.2_iphoneos-arm64.deb
+Size: 7706896
+MD5sum: a10b43efcf50addef2fd5fd2aed3a90d
+SHA1: bbc26a51d1f9e1bf12f89456db6bbfcd2b9c6f1e
+SHA256: 6a0da17fb9435ec57b8dd4ca19d81fae5fa09223f61f99dc9d4a8afbf2683f64
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.Renet
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.Renet_1.2_iphoneos-arm.deb
+Size: 3444528
+MD5sum: 3cae05c3c0a46fbb77b46229766c4cd7
+SHA1: 2f3ececdd55e01cdaa68f2df0d54c78c17c4e9ba
+SHA256: 07f5a17f8f1e75ea6e83359ee4d584685fdf9c47786b7db3a7379ff6d967e007
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 修复越狱后Cydia等各种软件无法联网的问题
+Author: Tinyapps.cn
+Name: 连个锤子-越狱联网一键修复[iOS 10.0~14.3]
+
+Package: apt.tinyapps.Renet
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.Renet_1.2.1_iphoneos-arm.deb
+Size: 318082
+MD5sum: e5e7c915b0926c2588e46806c9134cba
+SHA1: c01bfa710f44e82dc9dda6f21782f8c7678e6e96
+SHA256: 60eabf4e2cfca07fadafc5b830b0d12f4bea57e2c978de0d3dfa44643533e102
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 修复越狱后Cydia等各种软件无法联网的问题
+Author: Tinyapps.cn
+Name: 连个锤子-越狱联网一键修复[iOS 10.0~16.4]
+
+Package: apt.tinyapps.Renet.rootless
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.Renet.rootless_1.2.2_iphoneos-arm64.deb
+Size: 301828
+MD5sum: de032d5958fc062312f1a755ef98e81b
+SHA1: b410a45b481f417be4e7e8351c84458398daaba0
+SHA256: d3d88ad061e660d238d1e584bde58e36acaa26e0271f961321d771f252063071
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 修复越狱后Cydia等各种软件无法联网的问题
+Author: Tinyapps.cn
+Name: 连个锤子-越狱联网一键修复[iOS 15+]
+
+Package: apt.tinyapps.RespringAssistant
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.RespringAssistant_1.6_iphoneos-arm.deb
+Size: 3467008
+MD5sum: ac020f6f83ac39a07ea179ae70e86a1d
+SHA1: f789ed3079ebc8ce74206cb309f4eaaf13ccd6a6
+SHA256: 895807a850afa20ce26e6483522850c8a22c1f9a318bcb969b261fac0eb29789
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: [快速注销+联网修复]Restart your SpringBoard&Refresh App Icons& Fix network[for iOS 5.1.1-14.3] 快速重启SpringBoard，注销设备；一键刷新桌面的应用图标；修复越狱后无法联网问题
+Author: Tinyapps.cn
+Name: Respring Assistant(快速注销+联网修复) - Restart your SpringBoard QUICKLY, Refresh App Icons EASILY, Restore network
+
+Package: apt.tinyapps.RespringAssistant
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.RespringAssistant_1.6.1_iphoneos-arm.deb
+Size: 329510
+MD5sum: 908e2540bbd06e5574ce286b7e53ae00
+SHA1: cb45426841f7ff34a9e6e4c14de3e04a88269594
+SHA256: 18f6cad3f4ba097a2afdef8013b8964a82ff213f1939fcf972ab247ab439e91b
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: [快速注销+联网修复]Restart your SpringBoard&Refresh App Icons& Fix network[for iOS 5.1.1-16.4] 快速重启SpringBoard，注销设备；一键刷新桌面的应用图标；修复越狱后无法联网问题
+Author: Tinyapps.cn
+Name: Respring Assistant(快速注销+联网修复) - Restart your SpringBoard QUICKLY, Refresh App Icons EASILY, Restore network
+
+Package: apt.tinyapps.RespringAssistant.rootless
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.RespringAssistant.rootless_1.7_iphoneos-arm64.deb
+Size: 330296
+MD5sum: 19456fce3812a502133ce235a89ebda2
+SHA1: 9e2adaa595a5cbb88030d4692ddecad7dc693b89
+SHA256: 1fb1c03271ac337900fec53550fadaecebc92db9c79e6435cdf4b37cf7807d14
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: [快速注销+联网修复]Restart your SpringBoard&Refresh App Icons& Fix network[for iOS 5.1.1-16.4] for Rootless 支持无根越狱 快速重启SpringBoard，注销设备；一键刷新桌面的应用图标；修复越狱后无法联网问题
+Author: Tinyapps.cn
+Name: Respring Assistant-Rootless无根越狱(快速注销+联网修复) - Restart your SpringBoard QUICKLY, Refresh App Icons EASILY, Restore network
+
+Package: apt.tinyapps.RespringAssistant.rootless
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.RespringAssistant.rootless_1.7.1_iphoneos-arm64.deb
+Size: 301088
+MD5sum: 8e248164bf67946363729dd6a4d7ef5f
+SHA1: 0467c6a7bcfd4f4a0700fe50ea70eb6af01531c7
+SHA256: 6882778f6500e6c3db768bdbf4cf0fec733b1e75cf74cc73a6559bce9615e776
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: [快速注销+联网修复]Restart your SpringBoard&Refresh App Icons& Fix network[for iOS 15-iOS16] for Rootless 支持无根越狱 快速重启SpringBoard，注销设备；一键刷新桌面的应用图标；修复越狱后无法联网问题
+Author: Tinyapps.cn
+Name: Respring Assistant-Rootless无根越狱(快速注销+联网修复) - Restart your SpringBoard QUICKLY, Refresh App Icons EASILY, Restore network
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.4.6
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.4.6_iphoneos-arm.deb
+Size: 3620556
+MD5sum: 6a0c39f9f061054b11b5e76df9a48f22
+SHA1: e582435f818320a59da7710685445cc095bcd321
+SHA256: 18a682939305d2a081d6b3521a03d40a1ed327d26d0b9d62b30549bc707c1b5a
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~14.8 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~14.8)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~14.8)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新14.8越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.4.8
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.4.8_iphoneos-arm.deb
+Size: 3620584
+MD5sum: d7eaad5d9a209d45b471698bc63cef75
+SHA1: 79a018dcc9b293bf8db122b893b02d2f6759fa9a
+SHA256: 5dc2c626095016c3621067e70749204982766393e10184c6d3848eed98398fa4
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~14.8 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~14.8)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~14.8)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新14.8越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.4.9
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.4.9_iphoneos-arm.deb
+Size: 2610218
+MD5sum: 9b79fa6a85716f405b4fca65015dd0c6
+SHA1: 04baffc07112e4dc9af46620ba3ab6bf62caebbf
+SHA256: e5acbe201d7834d29b24035a09aa551ee430d3ef6c4adc5e30ab9930b268d063
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~14.8 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~14.8)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~14.8)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新14.8越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.5
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.5_iphoneos-arm.deb
+Size: 2607744
+MD5sum: 410ea47809af0c524af0fea1b9e7bc85
+SHA1: 75764ef88aa07983cae3c6b189ba5028c1f02692
+SHA256: 86735083b76fcd45d3637dcd14e5c374364b051cab06400352921072c7d8cb4a
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~14.8 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~14.8)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~14.8)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新14.8越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.5.1
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.5.1_iphoneos-arm.deb
+Size: 2607756
+MD5sum: e4e804a8a871142ab7dcce8a283cde85
+SHA1: 63b37e5040227c2d8f919bf71f5f62053fbea6cc
+SHA256: a261a9d57f4a20f5b927b80a035a6a84de356016aa34b6d61f4774fe2ad754e9
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~14.8 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~14.8)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~14.8)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新14.8越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.5.2
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.5.2_iphoneos-arm.deb
+Size: 2610652
+MD5sum: 8853a683e412fefb9a3bb9896d996416
+SHA1: 7f5f733ab3d978f8090371b7ddd7b81970541f86
+SHA256: 6a5f9bae1f8320c715ba6904127b9c2b39eb7a9d92179e5de7d2748921ea27b0
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~14.8 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~14.8)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~14.8)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新14.8越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.5.5
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.5.5_iphoneos-arm.deb
+Size: 2609388
+MD5sum: 350b248bf1d8fcd50295f768cab01fd8
+SHA1: bdaedcde83c19eada512ef27a487ee0c669507ab
+SHA256: 56db74d52129644026f1f7f1b1f93a80dc94d53ed49595fb6353f00a19cbf1b1
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~16.2 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~16.2)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~16.2)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新16.2越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.5.6
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.5.6_iphoneos-arm.deb
+Size: 2609706
+MD5sum: 2e8dd0d3e5d247ee00ec1bf40997a870
+SHA1: 2025c57d4d708c3246dc5d2be99c58c415d9c64d
+SHA256: e9f923456be89f6b2d338c3d7e2a442bb63615dcb5d1edabae6d1ec7139bc469
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~16.2 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~16.2)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~16.2)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新16.2越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.5.7
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.5.7_iphoneos-arm.deb
+Size: 2610438
+MD5sum: d8774c675c156ae47417f95c5b4a6259
+SHA1: 7e3dd460cb15de2984ef47220480a20b9f1df521
+SHA256: 6c100f7ed7d9fd19c802a7c5472e6ac1863ac6a83138a08b5e631c5cdca4e660
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~16.4 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~16.2)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~16.4)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新16.4越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.5.8
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.5.8_iphoneos-arm.deb
+Size: 2610374
+MD5sum: 4e9141210eefe2b6811f8f87d4b6929d
+SHA1: 9a9de9c14992499ed4efbaf200118d6a599b4334
+SHA256: b7aa9c2a364e99a023a3a406ee372d318898134f5bb1a3a1888b90a8b9a8aa37
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~16.4 Rootfull and Rootles 兼容有根无根越狱 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~16.4)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~16.4)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新16.4越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.5.9
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.5.9_iphoneos-arm.deb
+Size: 2671138
+MD5sum: 02bc63130740ca8dd80ef4405ce1baa5
+SHA1: 5f320afe93880f99a2856ce93e93b25e3bc493fb
+SHA256: 554afe751e58ad91512e01711cfa0b6a6494bbe2012cbcc9e2bb3130ae0d1d6a
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~16.4 Rootfull有根越狱 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~16.4)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~16.4)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新16.4越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.6
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.6_iphoneos-arm.deb
+Size: 2679026
+MD5sum: 7d00153c39f3dbb727a6827b5d6375bd
+SHA1: 5c4d749c6c11f6ef2ff46d8f6483d9ec0e32664b
+SHA256: bfdc8a2fa7f57716b590b305ecc9719ad712f1d0a664b68d171cf24a5520ed7e
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~16.4 Rootfull有根越狱 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~16.4)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~16.4)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新16.4越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.6.1
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.6.1_iphoneos-arm.deb
+Size: 2678840
+MD5sum: 1c1f502028230a93840fd761f5fd3bd5
+SHA1: 9ea4c94cede9184c142b156887175c5dfc8f5f03
+SHA256: 2956bc071afb25a4a45d17d824cd193928c7e1d476ed4e360b434d0df376d598
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~16.4 Rootfull有根越狱 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~16.4)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~16.4)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新16.4越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.6.2
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.6.2_iphoneos-arm.deb
+Size: 2690132
+MD5sum: 16bb51e8caa5705ac8b3a24b94a751c3
+SHA1: 85223da2ecf381f58f91e3bd9ba0762ef16f17cd
+SHA256: a365bf9a29a8c3a6bf52ad83946235306e113fd062f728364a1015482836bafd
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~16.4 Rootfull有根越狱 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~16.4)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~16.4)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新16.4越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.6.3
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.6.3_iphoneos-arm.deb
+Size: 2687672
+MD5sum: 1ee50f0de2643f939a6a63dbdca3fcb0
+SHA1: 328467384b972533eee560aab2a4967690db1b4a
+SHA256: 0b5aec7368ab94fc0fae178d1f37f07fcc11a87e05622fddbe27777f007ad61b
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: iOS 5.1.1~16.4 Rootfull有根越狱 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all iOS versions(5.1.1~16.4)  and all iOS devices(iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax)。支持所有iOS系统(5.1.1~16.4)版本及设备(包括iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XS/XR/XS Max/11/11Pro/12/12pro/12ProMax), iPad, iPod Touch. 完美兼容最新16.4越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.6.4
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.6.4_iphoneos-arm.deb
+Size: 2687846
+MD5sum: 6829e9c6c6d13144405daac031282c9c
+SHA1: 9ab293866924617180eae2ff94b333d52ab46b9d
+SHA256: 8c015be02aaab8565468240b1acb89076bb7122e6bb9a27d8c8d53e67b6c04bf
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【Rootful有根越狱，如unc0ver,XinaA,checkra1n,chimera,palera1n,Taurine,Electra,etc)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.6.5
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.6.5_iphoneos-arm.deb
+Size: 2683204
+MD5sum: 1fa8b63bfd10328ded50389c2c72dcdf
+SHA1: 12e9790757a4cfc9960002d47e315056dbb72c93
+SHA256: d7e830522f3af16530e28494a3a873ceeb2b1baf8f1feb38fbbdb25012c2b293
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【Rootful有根越狱，如unc0ver,XinaA,checkra1n,chimera,palera1n,Taurine,Electra,etc)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.6.6
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.6.6_iphoneos-arm.deb
+Size: 2685790
+MD5sum: 7cffa4d3802ca5f148e5a2e4a47ef352
+SHA1: 93ff7a17205400f62bae2443607d2a61cbdfd9aa
+SHA256: 6d2ce8da4820f8f0c6ea1f768be13e177743a3bd914589bbb852b19b5a32e514
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【Rootful有根越狱，如unc0ver,XinaA,checkra1n,chimera,palera1n,Taurine,Electra,etc)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.6.7
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.6.7_iphoneos-arm.deb
+Size: 2685410
+MD5sum: 4a6e06509e10ded5aaf7b7c8c7399f14
+SHA1: 7f7e85b5902c030cc0f0fd133822ad0256eabaf1
+SHA256: aeb6061d69604ca041d7d499679beeb1f474de60b0e3394a158d65efb5ce39c8
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【Rootful有根越狱，如unc0ver,XinaA,checkra1n,chimera,palera1n,Taurine,Electra,etc)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro.roothide
+Version: 4.6.4
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.roothide_4.6.4_iphoneos-arm64e.deb
+Size: 2675088
+MD5sum: a242706a57e676fb3ba8e69700abfdc1
+SHA1: cb4c84b8288a5d5d02f03723cb677912cb909cfc
+SHA256: fd2fc9e5983dcee460badfcf51f46c2079369f64da1ac179c442c7ad3e371e2d
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For RootHide无根Roothide版，如Bootstrap&Serotonin, Dopamine(RootHide)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro.roothide
+Version: 4.6.6
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.roothide_4.6.6_iphoneos-arm64e.deb
+Size: 2670928
+MD5sum: 0ad0878f6f16a0eb98b988d4961a2a75
+SHA1: 433a0df565e45b5ed5b4b7a8abd93dbcc53f2549
+SHA256: e1a7d29d9dd4c63cce8f5e9c568754fb70d6d06b737c29f21ea8bc8142c8fcbd
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For RootHide无根Roothide版，如Bootstrap&Serotonin, Dopamine(RootHide)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro.roothide
+Version: 4.6.7
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.roothide_4.6.7_iphoneos-arm64e.deb
+Size: 2670944
+MD5sum: 952c84e38a1b29a0098923071536de61
+SHA1: 0340b85d5746bab86a2653924b01e4d66f8e43a8
+SHA256: 35bb6bd99d2fb1790e24bfc97399d58a8c03e37ca9ed000e25e6c0b1b9b37bb9
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For RootHide无根Roothide版，如Bootstrap&Serotonin, Dopamine(RootHide)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro.rootless
+Version: 4.6.4
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.rootless_4.6.4_iphoneos-arm64.deb
+Size: 2666460
+MD5sum: b57c25b4c4f6e2fe1e04c642abba4027
+SHA1: f90417199fc5d8a23155835ca365ae79aaab8b1b
+SHA256: 6f954131ccacafd53f1a1f98cfb1d7766a7cd4a643c18855ba36fd87b552c7d0
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For Rootless无根越狱，如Dopamine,palera1n,Fugu15,etc】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro.rootless
+Version: 4.6.5
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.rootless_4.6.5_iphoneos-arm64.deb
+Size: 2637560
+MD5sum: 21c294b08e23ab4e99c48728bf101817
+SHA1: 27aeec82a73bc815f8470db38e83d13bbe072e6a
+SHA256: 44e5de2b533bc0560a6c237f065f2baf4e64449a5f4a055900a4cea4c0737405
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For Rootless无根越狱，如Dopamine,palera1n,Fugu15,etc】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro.rootless
+Version: 4.6.6
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.rootless_4.6.6_iphoneos-arm64.deb
+Size: 2641212
+MD5sum: 88fa3f554668efd2e27de4d0512dbc46
+SHA1: 0a7257504273c3f42f04484aec08d0a6a1901583
+SHA256: afd2168e1cc4336d3ab831c18993a3f5264141a5b020471df298934cf78f2d2f
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For Rootless无根越狱，如Dopamine,palera1n,Fugu15,etc】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro.rootless
+Version: 4.6.7
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.rootless_4.6.7_iphoneos-arm64.deb
+Size: 2640984
+MD5sum: 36ffefcb50a1215b7798257dff50392f
+SHA1: 925dc139c838b6ed264f7537203682f7ccfe8571
+SHA256: 72f3955320670ddb35ed31dab54c4e9468206026dad76ec8c0cddae6c97ef807
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For Rootless无根越狱，如Dopamine,palera1n,Fugu15,etc】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.location360pro
+Version: 2.9.3
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_2.9.3_iphoneos-arm.deb
+Size: 26151720
+MD5sum: c2416f9ad23c3dc480e5ebf979ae15ec
+SHA1: ab59f6470965b01f0c4619b679a7a4a2c1e55ad2
+SHA256: b40f68aeb37e7d040665c99c8b0a5b45e3ed46ae0e65a9b823beea37f8e7e357
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~14.8 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~14.8所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro
+Version: 2.9.4
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_2.9.4_iphoneos-arm.deb
+Size: 18498290
+MD5sum: 95e787ea393e9c9d640682bb32de3d9b
+SHA1: 646a007802419c194d3cee8b7d23cd35ea166734
+SHA256: a9efc868ed6f93a8f4a136b41cd7ff88ba27361b2d92e64c184d5404faf3f229
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~14.8 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~14.8所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro
+Version: 2.9.5
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_2.9.5_iphoneos-arm.deb
+Size: 18498314
+MD5sum: d867baf9591e4ef9d9efc57942250f37
+SHA1: 450d20d8b0af7fde5e2980a52dac9ae3d6e710f7
+SHA256: 2967f7cb93ea8e212051320e0ad0fb35a4ca0538defbeef32b51fcfdf3ec6f3f
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~14.8 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~14.8所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro
+Version: 2.9.6
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_2.9.6_iphoneos-arm.deb
+Size: 18500210
+MD5sum: 6032391e944f9c7957fdd1a7912e9dab
+SHA1: 4cf6e359c57093f92de979c0824895c7cf28dc73
+SHA256: 5627bec08511e020ad1ee37f6eda57938a5b6c7c7acbe24e3349ab18fa32f6b7
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.2 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.2所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro
+Version: 2.9.7
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_2.9.7_iphoneos-arm.deb
+Size: 18500956
+MD5sum: a11e3777eb3193a636de93af4caf629d
+SHA1: 7950f49f0fb23421c911e5bb4ca6fcbdc543118c
+SHA256: 3d0a6217d295a7e0120e422f6c01e7bb4403de3e76125ccc5c754ad135bd6db3
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.1_iphoneos-arm.deb
+Size: 18531788
+MD5sum: 73c83ab0ca43e3b9c3abb876b40d323c
+SHA1: 5db4fff8f7278de66b489ece93bf640ce8a8818d
+SHA256: d44b483b23242cdb891bd0be3f97eb481a1152e953e9c48a456febc068d5145c
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
+
+Package: apt.tinyapps.location360pro
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.2_iphoneos-arm.deb
+Size: 18534536
+MD5sum: a3396595815ee652980feeca2a905485
+SHA1: c0875db2da222643bc982a9d72e05ea51495ad6c
+SHA256: 48ff4eddc4b59625484e3c5b9a39dccab8125303e8aac9297f62e55983096bf5
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
+
+Package: apt.tinyapps.location360pro
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.3_iphoneos-arm.deb
+Size: 18538676
+MD5sum: 36937fe7170c9815d0a5fb294b432b1b
+SHA1: cd8662044849cdac8390367c634091650d53fad0
+SHA256: 7b73985fbbc88b420279a0a93550f470c08de9ffc8654260343f4b93ddbef61c
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
+
+Package: apt.tinyapps.location360pro
+Version: 3.0.5
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.5_iphoneos-arm.deb
+Size: 18564886
+MD5sum: da216f1e9b552e79af276f5efc35214a
+SHA1: f3762f3879a1eaf73f2c5cd98d3ee389e4abe17a
+SHA256: 52b7141bf7ecf7245954ec07f80e2ebc3eeb43c3ff9f245442ff3a245853bde2
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
+
+Package: apt.tinyapps.location360pro
+Version: 3.0.6
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.6_iphoneos-arm.deb
+Size: 18571356
+MD5sum: ad5f714876399d28f0db37cda7c823c8
+SHA1: ed3851a2cf72825edd5c75a8ae57246b9014d650
+SHA256: 619f96c06564b73ea4744ed8f6f5c5aafb3dd8f5c1186e6d5c5dc461cd52b91f
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
+
+Package: apt.tinyapps.location360pro
+Version: 3.0.7
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.7_iphoneos-arm.deb
+Size: 18571504
+MD5sum: 63f302172b10b042bf32f17be0370191
+SHA1: d2199df40772c3cc44af0bb6ad7a0099d5464371
+SHA256: bd1aacf04fb0737a8a599d4b2487177a6b22b672ca0081285d27fae650cb5078
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
+
+Package: apt.tinyapps.location360pro
+Version: 3.0.8
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.8_iphoneos-arm.deb
+Size: 18571548
+MD5sum: 1101c85eb968b3d29201e4f69a6a2d98
+SHA1: 4e58041dfe60c7572516f4db3e33ff82ff4d8473
+SHA256: f96c4df22ebb8a65c6f72a0119f303eaae775a7df7d85115b489751cae03bc61
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
+
+Package: apt.tinyapps.location360pro.rootless
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro.rootless_3.0_iphoneos-arm64.deb
+Size: 18466636
+MD5sum: 140fa6877cc297f34a143636dc84fcf3
+SHA1: ae06b2f7f69e98927f703ee929c90459a3bcf9be
+SHA256: f487794e0e83d00e60886bd13cb6d8d48a1ca1c620e7e1869d01286536281f7e
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: For Rootless only 无根越狱版 Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)-Rootless无根越狱
+
+Package: apt.tinyapps.location360pro.rootless
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro.rootless_3.0.1_iphoneos-arm64.deb
+Size: 18483966
+MD5sum: 159e4e21db22e996ba33a564de8eaec9
+SHA1: c167be8842fe015f475f16ff063421e612959fc3
+SHA256: e371aeb8231fd96ad1bb6136e3fb8d9937f4c05b9759e73e17e28c32dd178252
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootful&Rootless 兼容有根无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro.rootless
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro.rootless_3.0.2_iphoneos-arm64.deb
+Size: 18487610
+MD5sum: a3cb9a0126753542b4cadfbee65ef5ce
+SHA1: 21e652fdf993d7872b7741a40e95701f5e7a04f1
+SHA256: 4543c679aa78f86665d4234a474c25cea13266b305b48c8c910d08fcf157315c
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootful&Rootless 兼容有根无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro.rootless
+Version: 3.0.3
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro.rootless_3.0.3_iphoneos-arm64.deb
+Size: 18491910
+MD5sum: 82c01503594af0261991281b03799a60
+SHA1: 507ff869e536193ecc1e4a0920c1ad608ee22128
+SHA256: ffe646de90be1be46642473611c05a2eb5ae7e574ff4724ddac85386238d4b51
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootful&Rootless 兼容有根无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro.rootless
+Version: 3.0.5
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro.rootless_3.0.5_iphoneos-arm64.deb
+Size: 18501454
+MD5sum: da163315313e930f36428e0a693673e3
+SHA1: d212fdbc957bc15d04b3dbb1f6cfc55a0e1b3fdf
+SHA256: 514713425893bfb7895857623606f680738c7d31150cdda14f1e9d187dd229b2
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootful&Rootless 兼容有根无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.6.1所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro.rootless
+Version: 3.0.6
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro.rootless_3.0.6_iphoneos-arm64.deb
+Size: 18510760
+MD5sum: 942ef3d592562d920592d1ce01ae4038
+SHA1: f05d16634ef824b5aeaefc9808c10164b4c933c4
+SHA256: 86d6043c32ad79204c7626df034212bfdece1f14b0c85bf773cdbccc010346e5
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootless无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.6.1所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro.rootless
+Version: 3.0.7
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro.rootless_3.0.7_iphoneos-arm64.deb
+Size: 18505934
+MD5sum: 15b8466fa6e2c977a5e9ee72089fa57c
+SHA1: f7142cd4419f11481d4a40ebe86e2354bb07bcae
+SHA256: b0a1271e6ea0efd09b0a79213a3023fd1bff257ecddddf44056b4998c3bf6d24
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootless无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.6.1所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro.rootless
+Version: 3.0.8
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro.rootless_3.0.8_iphoneos-arm64.deb
+Size: 18507030
+MD5sum: 810fa216cbf41c4581c85bd1399f3031
+SHA1: 559925c1dcf693e83ff92feb16f7c3eb9d4b8c0e
+SHA256: 1131da6d3098b1abe918f5f77afaf8fcd47eae4167df4c94fac89f2f99a3f31d
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootless无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.6.1所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.wxtones
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.wxtones_2.0_iphoneos-arm.deb
+Size: 2648086
+MD5sum: fddfa5a8b462323f3ecfc9a4cbb2c746
+SHA1: 79b8547c36b105a7d3ebcc0004424bc08d27e09a
+SHA256: 2aeb9f75f591ec8be5ce2a0439bde02963f0bdcca04ee99f6c450706c98463c2
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: [支持5.1.1-14.3 支持最新版微信8.0.1]一键设置微信个性化铃声：目前包括定制消息提示音和视频通话铃声。海量热门个性化铃声，永久更新。如吉他音效、浪漫片头、kiss声音、雅蠛蝶、萝莉娃娃、恐怖笑声、诺基亚经典铃声、好听口哨声
+Author: Tinyapps.cn
+Name: 微信炫铃-一键设定个性化微信提示音(Customized Tones for WeChat)
+
+Package: apt.tinyapps.wxtones
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.wxtones_2.1_iphoneos-arm.deb
+Size: 2724220
+MD5sum: df7129f3c70c81e7e0d9b6b0934e00ef
+SHA1: f47649f16f0f7effaa2a96ade885b72aecfe8f5f
+SHA256: 6ccd7f0cbe0466304ad8d1f22f815ea6ea29d46a5bfe52be126cb00fdcc0db02
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: [支持5.1.1-14.3 支持最新版微信8.0.1]一键设置微信个性化铃声：目前包括定制消息提示音和视频通话铃声。海量热门个性化铃声，永久更新。如吉他音效、浪漫片头、kiss声音、雅蠛蝶、萝莉娃娃、恐怖笑声、诺基亚经典铃声、好听口哨声
+Author: Tinyapps.cn
+Name: 微信炫铃-一键设定个性化微信提示音(Customized Tones for WeChat)
+
+Package: apt.tinyapps.wxtones.rootless
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn<tinyapps@qq.com>
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.wxtones.rootless_2.2_iphoneos-arm64.deb
+Size: 1720378
+MD5sum: c0230df8dde5eadedc852832fe6457d1
+SHA1: 1130000987ad3c4a1bc7e58dd1d6b0ee52c4ba4d
+SHA256: a00cce06beb972cfb4623aa34766143b527b6a28a33666a1d904b5d043192e1b
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: [支持15.0及以上iOS无根越狱， 支持最新版微信]一键设置微信个性化铃声：目前包括定制消息提示音和视频通话铃声。海量热门个性化铃声，永久更新。如吉他音效、浪漫片头、kiss声音、雅蠛蝶、萝莉娃娃、恐怖笑声、诺基亚经典铃声、好听口哨声
+Author: tinyapps@qq.com
+Name: 微信彩铃-一键设定个性化微信提示音(Customized Tones for WeChat)
+
