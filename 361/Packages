@@ -1,0 +1,34 @@
+Package: apt.tinyapps.RST
+Version: 2.3.11-test
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.3.11-test_iphoneos-arm.deb
+Size: 4412168
+MD5sum: 8a40962b1d489c3fe19ae4994f6804ac
+SHA1: 14b27ba7ecfb78492799a70223dbbf370b726750
+SHA256: 7682f31bd45ffebed733436dc27e26a68113335a6c0a1a48d5d6235ddd3238dc
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.1.2
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.1.2_iphoneos-arm.deb
+Size: 4160436
+MD5sum: 9a30e60fa080c90680dbbf77a097883b
+SHA1: 239c445701c6661a7b7d91f2b52fe590c99c5738
+SHA256: 1b786d0f9da1daf16bd0133c59ee548ed6b37e9ad4582ff0110a466fd61b925b
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
