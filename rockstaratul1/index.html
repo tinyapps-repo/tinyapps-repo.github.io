@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rockstaratul1 repo for 361 MultiAccount Master</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 24px;
+            text-align: center;
+            color: #2c3e50;
+        }
+        h2 {
+            font-size: 20px;
+            color: #34495e;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 16px;
+        }
+        .step {
+            background-color: #fff;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .source-url {
+            font-family: monospace;
+            background-color: #ecf0f1;
+            padding: 5px 10px;
+            border-radius: 5px;
+            display: inline-block;
+            margin: 10px 0;
+        }
+        .diagram {
+            background-color: #e8ecef;
+            padding: 15px;
+            border: 1px dashed #7f8c8d;
+            border-radius: 5px;
+            font-family: monospace;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #2980b9;
+        }
+        .copy-button {
+            background-color: #2ecc71;
+            margin-left: 10px;
+        }
+        .copy-button:hover {
+            background-color: #27ae60;
+        }
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 20px;
+            }
+            h2 {
+                font-size: 18px;
+            }
+            p {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>rockstaratul1 repo for 361 MultiAccount Master</h1>
+    <p>Follow the steps below to add the repository to your Sileo or Cydia. The repository URL is:</p>
+    <div class="source-url">https://apt.tinyapps.cn/rockstaratul1</div>
+    <p>
+        <a href="#" class="button copy-button" onclick="copyToClipboard()">Copy URL</a>
+        <a href="sileo://source/https://apt.tinyapps.cn/rockstaratul1" class="button">Open in Sileo</a>
+    </p>
+
+    <h2>Adding the Repository to Sileo</h2>
+    <div class="step">
+        <p>1. Open the Sileo app from your home screen.</p>
+        <p>2. Tap the “Sources” tab at the bottom.</p>
+        <p>3. Tap the “+” button in the top right corner to add a new source.</p>
+        <p>4. Paste the following URL into the input box and tap “Add Source”:</p>
+        <div class="source-url">https://apt.tinyapps.cn/rockstaratul1</div>
+        <p>5. Wait for the source to refresh, and you can then browse and install its contents.</p>
+        <div class="diagram">
+            [Diagram Simulation]<br>
+            Sileo Home -> Sources -> [+] -> Input Box<br>
+            Enter: https://apt.tinyapps.cn/rockstaratul1<br>
+            Tap [Add Source]
+        </div>
+    </div>
+
+    <h2>Adding the Repository to Cydia</h2>
+    <div class="step">
+        <p>1. Open the Cydia app from your home screen.</p>
+        <p>2. Tap the “Sources” tab at the bottom.</p>
+        <p>3. Tap “Edit” in the top right corner, then tap “Add”.</p>
+        <p>4. Paste the following URL into the input box and tap “Add Source”:</p>
+        <div class="source-url">https://apt.tinyapps.cn/rockstaratul1</div>
+        <p>5. Wait for the source to refresh, and you can then browse and install its contents.</p>
+        <div class="diagram">
+            [Diagram Simulation]<br>
+            Cydia Home -> Sources -> [Edit] -> [Add]<br>
+            Enter: https://apt.tinyapps.cn/rockstaratul1<br>
+            Tap [Add Source]
+        </div>
+    </div>
+
+    <p style="text-align: center;">
+        <a href="https://apt.tinyapps.cn/rockstaratul1" class="button">Visit Repository URL Directly</a>
+    </p>
+
+    <script>
+        function copyToClipboard() {
+            const url = "https://apt.tinyapps.cn/rockstaratul1";
+            navigator.clipboard.writeText(url).then(() => {
+                alert("Repository URL copied to clipboard!");
+            }).catch(err => {
+                alert("Failed to copy URL: " + err);
+            });
+        }
+    </script>
+</body>
+</html>
