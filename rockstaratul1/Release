@@ -1,0 +1,9 @@
+Origin: rockstaratul1 repo
+Label: rockstaratul1 repo
+Suite: stable
+Version: 1.0
+Codename: Tinyapps.cn
+Support: rockstaratul1 rockstaratul1@gmail.com
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 361 MultiAccount Master。 rockstaratul1@gmail.com
