@@ -1,34 +1,34 @@
 Package: cn.tinyapps.RST
 Version: 2.4.2.1
 Architecture: iphoneos-arm64
-Maintainer: Tinyapps.cn
+Maintainer: rockstaratul1@gmail.com
 Depends: firmware (>= 5.1.1), mobilesubstrate
 Filename: debs/cn.tinyapps.RST_2.4.2.1_iphoneos-arm64.deb
-Size: 7502044
-MD5sum: 7006923ae153006f46799c9fcf32d226
-SHA1: 18c35c7fe50dea95d83b44d9076df7b6dda2429d
-SHA256: e8d86d3d78fe4b5c0d5727804fd00364a46d21705105999d72399b8e939db4f1
+Size: 7698288
+MD5sum: f0d2532156e02d28e818b029d8e38e0c
+SHA1: 1fbf9dab15a48c43633c1a46e68e55e8bc7d3cc8
+SHA256: 2d3e4f527fe8efb82d89cdc98e51c4769a8dd929d0352f927582956df3eeb865
 Section: System
 Priority: optional
 Homepage: Tinyapps.cn
-Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
-Author: Tinyapps.cn
-Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+Description: devicex-Rootless
+Author: rockstaratul1@gmail.com
+Name: devicex-Rootless
 
 Package: cn.tinyapps.RST
 Version: 2.4.2.1
 Architecture: iphoneos-arm
-Maintainer: Tinyapps.cn
+Maintainer: rockstaratul1@gmail.com
 Depends: firmware (>= 5.1.1), mobilesubstrate
 Filename: debs/cn.tinyapps.RST_2.4.2.1_iphoneos-arm.deb
-Size: 4456510
-MD5sum: 7ff62d262601bb304c667144835d9cc1
-SHA1: 0651c8d7dbd00433d94eb2ebd2eccd6ffd7cfb75
-SHA256: a2c6d0920bd0bd927356535881ba6fc9c5720ac78542986ae74368cdfe888220
+Size: 4455970
+MD5sum: c983c670d3d5a52c37b0111019300dcf
+SHA1: e2f9ab6e2bc7348bb9d95953a9487b2aede3c229
+SHA256: 7c7fb336491dea9e2262349d93c910a0c2c2232bf4c48265f054fb814b30d125
 Section: System
 Priority: optional
 Homepage: Tinyapps.cn
-Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
-Author: Tinyapps.cn
-Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+Description: devicex-Rootful
+Author: rockstaratul1@gmail.com
+Name: devicex-Rootful
 
