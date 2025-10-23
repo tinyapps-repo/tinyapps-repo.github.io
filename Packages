@@ -1368,10 +1368,10 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
 Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
 Filename: debs/apt.tinyapps.location360pro_3.0.9_iphoneos-arm.deb
-Size: 10600632
-MD5sum: 4f59329a48d7dfa40027e51e53255953
-SHA1: 1cae848b7e2789e66c00655c6acc6ed56468243e
-SHA256: 2ec469e6a8bf21f1cb314b506eaf4e1d317dd474b2cf793c3801a99a050c02d4
+Size: 10600392
+MD5sum: 4ef4f232915d77940778976923174510
+SHA1: d5027a06522f807ab64f81d53a985b6e3946dab8
+SHA256: a080a337445c8ffc8b2f4b1891f74f50263c52bdb95ceae064ca8b3298d7c761
 Section: System
 Priority: optional
 Homepage: tinyapps@qq.com
