@@ -1360,6 +1360,25 @@ Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3
 Author: tinyapps@qq.com
 Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
 
+Package: apt.tinyapps.location360pro
+Version: 3.0.9
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.9_iphoneos-arm64.deb
+Size: 10535150
+MD5sum: 2d89087af33e6166b0ff0fba5fa32442
+SHA1: db2a4b3071445ad7d05f57ce69df69d62e66337b
+SHA256: ab4cedd68fef11e0d18d78cc97488fe35c8dd156127ea76fac9d09e7077750c7
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootless无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.6.1所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
 Package: apt.tinyapps.location360pro.rootless
 Version: 3.0
 Architecture: iphoneos-arm64
