@@ -1368,10 +1368,10 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
 Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
 Filename: debs/apt.tinyapps.location360pro_3.0.9_iphoneos-arm.deb
-Size: 10600810
-MD5sum: 93c4d862e6c20d9007ac1a657e9197ad
-SHA1: b24974909c11cb1b2c57af01c10021ccc7881f73
-SHA256: e243eb20756292e603d72dd3f4c6603e6490cf330e8f3231024ca01d900f64c9
+Size: 10600836
+MD5sum: 181fd0656b5ed32e5e4b2f61de1c5bd3
+SHA1: b1a3097f0e2ed7e326fe1f14d0bc36da4762c87f
+SHA256: 3610844e383a4984736687ba29e55cda21f2638cf9d2759f6c58edf177330a37
 Section: System
 Priority: optional
 Homepage: tinyapps@qq.com
@@ -1539,10 +1539,10 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
 Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
 Filename: debs/apt.tinyapps.location360pro.rootless_3.0.9_iphoneos-arm64.deb
-Size: 10535734
-MD5sum: ba14115f3f6b8435b442d3a935e4223c
-SHA1: e216c255063643794834a5625f6671912a04f814
-SHA256: 821cc2a21b05bb27e283d2ca08050c3cadc0d8c0847a0afc0b105a20f504f2db
+Size: 10535668
+MD5sum: 3d082075c9c9dfa2d4e3f759da39c308
+SHA1: e8469f85b6be39b0e077e0f209e1028f9f1ef119
+SHA256: 77dbe7fc65391f2e9557f0e8f9451bd0d0a098a226721456b653fb50a0ff70d5
 Section: System
 Priority: optional
 Homepage: tinyapps@qq.com
