@@ -536,16 +536,16 @@ Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全�
 Author: Tinyapps.cn
 Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
 
-Package: apt.tinyapps.RST.rootless
+Package: apt.tinyapps.RST
 Version: 2.4.2.2
 Architecture: iphoneos-arm64
 Maintainer: Tinyapps.cn
 Depends: firmware (>= 5.1.1), mobilesubstrate
-Filename: debs/apt.tinyapps.RST.rootless_2.4.2.2_iphoneos-arm64.deb
-Size: 7482058
-MD5sum: 78c10afb741cf989b88bd3bf15c4babd
-SHA1: f1164b119a487d33964c2ff1baa88652416c2354
-SHA256: 07caf936177cef9ff9fd5086abfd1807369efb48b1aa66b5833d80b6ed6629de
+Filename: debs/apt.tinyapps.RST_2.4.2.2_iphoneos-arm64.deb
+Size: 7482074
+MD5sum: 2c7e019e6c6a6dbc192ffed8afdf35f3
+SHA1: f914a72158bbbc8ed7b84ffcaaa269071f6d6254
+SHA256: c4fa5a112d478fffe5bbe77d79a4229639c47009bdc853a049284bead3ff32d6
 Section: System
 Priority: optional
 Homepage: Tinyapps.cn
