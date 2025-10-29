@@ -538,6 +538,23 @@ Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8
 
 Package: apt.tinyapps.RST
 Version: 2.4.2.2
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.2.2_iphoneos-arm64e.deb
+Size: 7518344
+MD5sum: 7cf9a8025bb570b8d4f15b3960a7ee83
+SHA1: 521473225d625c73ed52722ad1b58e4db4d65b8c
+SHA256: 2b2403a568902e50cc73332df84e99d1657ebd192c946cf6df57777c481f7d3a
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: Support Dopamine, Bootstrap, Serotonin。支持Dopamine, Bootstrap, Serotonin。MultiAccount Master(361一键新机)-RootHide越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-RootHide无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.2.2
 Architecture: iphoneos-arm64
 Maintainer: Tinyapps.cn
 Depends: firmware (>= 5.1.1), mobilesubstrate
