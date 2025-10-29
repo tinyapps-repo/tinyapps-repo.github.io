@@ -542,10 +542,10 @@ Architecture: iphoneos-arm64e
 Maintainer: Tinyapps.cn
 Depends: firmware (>= 5.1.1), mobilesubstrate
 Filename: debs/apt.tinyapps.RST_2.4.2.2_iphoneos-arm64e.deb
-Size: 7518352
-MD5sum: 3ee9b86d4ad75bff51a6e2c26d0b0cc7
-SHA1: 95476b9a72328e08c7448320720d3915d5b14837
-SHA256: 3b5fd2df63094e40681e090737cd25795a5f38ba00bf13271e4da5d62dcceb4e
+Size: 7257158
+MD5sum: c84a3796d8f9070111087efd4efc15a7
+SHA1: 4e924179798679ed6e612424095e4c656a4c94c0
+SHA256: c86f1c0469254aaf7dc9f49d62ffc94f158efd589be66a3a391a2c4cd7efea91
 Section: System
 Priority: optional
 Homepage: Tinyapps.cn
