@@ -1126,6 +1126,25 @@ Description: 【For RootHide无根Roothide版，如Bootstrap&Serotonin, Dopamine
 Author: Tinyapps.cn
 Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
 
+Package: apt.tinyapps.XGPSPro.roothide
+Version: 4.6.8
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.roothide_4.6.8_iphoneos-arm64e.deb
+Size: 2687356
+MD5sum: f01af930509a8123f286a09eb7e6f051
+SHA1: 33f7eb78fa6d519d204a2109ad997b5cb0ad8f05
+SHA256: edc269e8fe80f7d8aa9312bade355247769441dc7828deaf95c290e8dcd7a526
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For RootHide无根Roothide版，如Bootstrap&Serotonin, Dopamine(RootHide)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
 Package: apt.tinyapps.XGPSPro.rootless
 Version: 4.6.4
 Architecture: iphoneos-arm64
