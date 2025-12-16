@@ -1736,10 +1736,10 @@ Architecture: iphoneos-arm
 Maintainer: Tinyapps.cn
 Depends: firmware (>= 5.1.1)
 Filename: debs/apt.tinyapps.wxtones_3.0_iphoneos-arm.deb
-Size: 1960824
-MD5sum: bfe77724c5473d6f9765e5e93d9c004f
-SHA1: e05fd09c32ac5dddccbe807257acfbcc14191975
-SHA256: 34d471f34e4a478729ad5c92f056566ad9bd98993056430d7c881bb4c0b6fcb6
+Size: 1960940
+MD5sum: fe626b342050eeee327d9ea872b7ab0f
+SHA1: 4bb6f240801f7a36a445ce0a1ba08eba1f950e22
+SHA256: bbc4e3f018c8562c5833010f101a12b0e214a0f111a9257e4620e7d66f2331e5
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
@@ -1770,10 +1770,10 @@ Architecture: iphoneos-arm64
 Maintainer: Tinyapps.cn<tinyapps@qq.com>
 Depends: firmware (>= 5.1.1)
 Filename: debs/apt.tinyapps.wxtones.rootless_3.0_iphoneos-arm64.deb
-Size: 1735684
-MD5sum: eed2097584462a2a423c3f3326ddd700
-SHA1: 76cb5f05e577d9e6f1383d62339be877b9ba6d56
-SHA256: 68043d1511e321998736483403c8c0c86fe77f8f3c62942ee4f3facee3ea82e1
+Size: 1659824
+MD5sum: 9871199c00a4596f069f7014fb33c494
+SHA1: a1e0d1c61aa5519bd26318540ee86648b9c75fd2
+SHA256: c48fb6629a1d46f4d5d2f181867c4202f316aa0e28ed84e0d2a34fee8872c30d
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
