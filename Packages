@@ -1730,6 +1730,23 @@ Description: [支持5.1.1-14.3 支持最新版微信8.0.1]一键设置微信个�
 Author: Tinyapps.cn
 Name: 微信炫铃-一键设定个性化微信提示音(Customized Tones for WeChat)
 
+Package: apt.tinyapps.wxtones
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1)
+Filename: debs/apt.tinyapps.wxtones_3.0_iphoneos-arm.deb
+Size: 1960824
+MD5sum: bfe77724c5473d6f9765e5e93d9c004f
+SHA1: e05fd09c32ac5dddccbe807257acfbcc14191975
+SHA256: 34d471f34e4a478729ad5c92f056566ad9bd98993056430d7c881bb4c0b6fcb6
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: [支持所有系统版本和越狱设备。 支持最新版微信8.0.66]一键设置微信个性化铃声：目前包括定制消息提示音和视频通话铃声。海量热门个性化铃声，永久更新。如吉他音效、浪漫片头、kiss声音、雅蠛蝶、萝莉娃娃、恐怖笑声、诺基亚经典铃声、好听口哨声
+Author: Tinyapps.cn
+Name: 微信炫铃-一键设定个性化微信提示音(Customized Tones for WeChat)
+
 Package: apt.tinyapps.wxtones.rootless
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -1753,14 +1770,14 @@ Architecture: iphoneos-arm64
 Maintainer: Tinyapps.cn<tinyapps@qq.com>
 Depends: firmware (>= 5.1.1)
 Filename: debs/apt.tinyapps.wxtones.rootless_3.0_iphoneos-arm64.deb
-Size: 1721754
-MD5sum: f75e6e34cce659b5316a1aa7a79eda05
-SHA1: 7b50f2e9b88b4836b876c2b774285071a2f4114d
-SHA256: f5b493e86b86647e82d94412051e938fe2f9006317f49d6789b3183101247911
+Size: 1735684
+MD5sum: eed2097584462a2a423c3f3326ddd700
+SHA1: 76cb5f05e577d9e6f1383d62339be877b9ba6d56
+SHA256: 68043d1511e321998736483403c8c0c86fe77f8f3c62942ee4f3facee3ea82e1
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
-Description: [支持15.0及以上iOS无根越狱， 支持最新版微信]一键设置微信个性化铃声：目前包括定制消息提示音和视频通话铃声。海量热门个性化铃声，永久更新。如吉他音效、浪漫片头、kiss声音、雅蠛蝶、萝莉娃娃、恐怖笑声、诺基亚经典铃声、好听口哨声
+Description: [支持所有系统版本和越狱设备的无根越狱， 支持最新版微信]一键设置微信个性化铃声：目前包括定制消息提示音和视频通话铃声。海量热门个性化铃声，永久更新。如吉他音效、浪漫片头、kiss声音、雅蠛蝶、萝莉娃娃、恐怖笑声、诺基亚经典铃声、好听口哨声
 Author: tinyapps@qq.com
 Name: 微信彩铃-一键设定个性化微信提示音(Customized Tones for WeChat)
 
