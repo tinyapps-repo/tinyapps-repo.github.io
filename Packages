@@ -33,16 +33,16 @@ Version: 2.2
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/apt.tinyapps.AntiTracker_2.2_iphoneos-arm.deb
-Size: 1410658
-MD5sum: 9b519b51d795229df4043b84ccbc4b67
-SHA1: 839939af177e43ce022f9bc62b6005961eb5f952
-SHA256: fb7893b73cbf00c4cfc0a33eb3f981d2da67b4dc0b6d62455f69a516dd39fb5c
+Size: 1519364
+MD5sum: c57261c6395136341172f8838b46df2d
+SHA1: 207700591c3a6f02a5740c9b482ce18f2e500de7
+SHA256: 851326dbe27ae67dda741fb8dfd72983c3fb114bf2ec5698dbb43d387c2fc875
 Section: Applications
 Priority: optional
 Homepage: http://tinyapps.cn
-Description: Notifies you immediately when tracked by others via [FindMyiPhone] or [FindMyFriends], and stores all tracking records as well, running in BACKGROUND。for all iOS devices running iOS 5.1.1~14.3, including iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12.。NOTE：if it does not work, please reboot your device.
+Description: Notifies you immediately when tracked by others via [FindMyiPhone] or [FindMyFriends], and stores all tracking records as well, running in BACKGROUND。for all iOS devices running iOS 5.1.1~14.2, including iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12.实时监控他人通过【查找我的iPhone】或【查找朋友】对您的查岗，报警并存档。可配置报警内容及报警铃声，并自动存储所有查岗记录。后台运行，持续监控。支持所有越狱系统(5.1.1~14.2)及设备(iPhone/iPad/iPod Touch)。NOTE：if it does not work, please reboot your device.注意：如果不生效请手动重启一次设备
 Author: tinyapps@qq.com
-Name: AntiTracker-Alerts you when tracked by others in real time
+Name: 查岗报警器(AntiTracker)-监控他人通过【查找我的iPhone】或【查找朋友】对您的查岗Alerts you when tracked by others in real time
 
 Package: apt.tinyapps.AntiTracker.rootless
 Version: 2.0.2
@@ -65,16 +65,16 @@ Architecture: iphoneos-arm64
 Maintainer: Tinyapps.cn<tinyapps@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/apt.tinyapps.AntiTracker.rootless_2.2_iphoneos-arm64.deb
-Size: 1478232
-MD5sum: 0c3a421711ff4111a7dd6c46275bf520
-SHA1: ad34b0ef0663437ef76aaf145c7b047ac83f1799
-SHA256: aad14318c288097e0d7bff77f00275d6c1dbb816f6aeac3be3ab6f24219b6c8b
+Size: 1478558
+MD5sum: 9506a1a142e73cc9307493c3eb1197e1
+SHA1: 5c4f504a661483693ae59b300318b41f25ab2566
+SHA256: f8c11315b12a391215f3074bec822d1c701453eed08510ab46052204a4003bd8
 Section: Applications
 Priority: optional
 Homepage: http://tinyapps.cn
-Description: For Rootless. Notifies you immediately when tracked by others via [FindMyiPhone] or [FindMyFriends], and stores all tracking records as well, running in BACKGROUND。for all iOS devices running iOS 5.1.1~16.5.1, including iPhone 6/6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12.NOTE：if it does not work, please reboot your device.
+Description: Notifies you immediately when tracked by others via [FindMyiPhone] or [FindMyFriends], and stores all tracking records as well, running in BACKGROUND。for all iOS devices running iOS 5.1.1~14.2, including iPhone 4/4S/5/5S/5C/6/6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12.实时监控他人通过【查找我的iPhone】或【查找朋友】对您的查岗，报警并存档。可配置报警内容及报警铃声，并自动存储所有查岗记录。后台运行，持续监控。支持所有越狱系统(5.1.1~14.2)及设备(iPhone/iPad/iPod Touch)。NOTE：if it does not work, please reboot your device.注意：如果不生效请手动重启一次设备
 Author: tinyapps@qq.com
-Name: AntiTracker-Alerts you when tracked by others in real time
+Name: 查岗报警器(AntiTracker)-监控他人通过【查找我的iPhone】或【查找朋友】对您的查岗Alerts you when tracked by others in real time
 
 Package: apt.tinyapps.RST
 Version: 2.3.10
