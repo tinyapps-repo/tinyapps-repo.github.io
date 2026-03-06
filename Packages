@@ -1104,16 +1104,35 @@ Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
 
 Package: apt.tinyapps.XGPSPro
 Version: 4.6.9
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro_4.6.9_iphoneos-arm.deb
+Size: 2703432
+MD5sum: eb349f91be4fafe1fc0d04e185c90234
+SHA1: eb82495e9fa13a0a554985dd9dce56db175417bd
+SHA256: 5c1e53f097a1555fbea4dc8744173ae921d3a27f4f823a95828a1a7b7426fbb1
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【Rootful有根越狱，如unc0ver,XinaA,checkra1n,chimera,palera1n,Taurine,Electra,etc)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro
+Version: 4.6.9
 Architecture: iphoneos-arm64
 Maintainer: Tinyapps.cn
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Filename: debs/apt.tinyapps.XGPSPro_4.6.9_iphoneos-arm64.deb
-Size: 2655480
-MD5sum: 47bff035278474d22601d6507e0b7374
-SHA1: 9b0bf91af9046a44af3717c4d52899a7fe52b847
-SHA256: 860a6f318b2d0d532eea1333c50dd2059dd8fb1e19d987980688219b60dca02c
+Size: 2655812
+MD5sum: 2c04f1685cb38cf3bb25e757e8029f64
+SHA1: a19e746fc9b905efd879fb3c3062511860c92f18
+SHA256: 77a7e30755d68222e27de7af245173f26f589db246c96469a55e3d87fac1d042
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
@@ -1190,6 +1209,25 @@ Size: 2687356
 MD5sum: f01af930509a8123f286a09eb7e6f051
 SHA1: 33f7eb78fa6d519d204a2109ad997b5cb0ad8f05
 SHA256: edc269e8fe80f7d8aa9312bade355247769441dc7828deaf95c290e8dcd7a526
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For RootHide无根Roothide版，如Bootstrap&Serotonin, Dopamine(RootHide)】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro.roothide
+Version: 4.6.9
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.roothide_4.6.9_iphoneos-arm64e.deb
+Size: 2686682
+MD5sum: 6e67aa18538daa254658fecefc63cfd1
+SHA1: 16fdd8cb5a92acd83291f8ca3212ed9b25b71684
+SHA256: f7a077c6a05fa80fdd33d5eee27c183979f07cba511b23f30a4376e5013410c5
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
