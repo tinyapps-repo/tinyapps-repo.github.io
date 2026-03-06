@@ -1110,10 +1110,10 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Filename: debs/apt.tinyapps.XGPSPro_4.6.9_iphoneos-arm.deb
-Size: 2703432
-MD5sum: eb349f91be4fafe1fc0d04e185c90234
-SHA1: eb82495e9fa13a0a554985dd9dce56db175417bd
-SHA256: 5c1e53f097a1555fbea4dc8744173ae921d3a27f4f823a95828a1a7b7426fbb1
+Size: 2701718
+MD5sum: cf9738b0c60a267f631b8100f83d1341
+SHA1: e1ee5a0a03059d157116fd546a83593e3ba12462
+SHA256: df619501cb2479662064eec007b2795f30c6b20fae6dee77a54976c4a1fa867c
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
