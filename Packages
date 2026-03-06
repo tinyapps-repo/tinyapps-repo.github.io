@@ -1121,25 +1121,6 @@ Description: 【Rootful有根越狱，如unc0ver,XinaA,checkra1n,chimera,palera1
 Author: Tinyapps.cn
 Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
 
-Package: apt.tinyapps.XGPSPro
-Version: 4.6.9
-Architecture: iphoneos-arm64
-Maintainer: Tinyapps.cn
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
-Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
-Filename: debs/apt.tinyapps.XGPSPro_4.6.9_iphoneos-arm64.deb
-Size: 2655812
-MD5sum: 2c04f1685cb38cf3bb25e757e8029f64
-SHA1: a19e746fc9b905efd879fb3c3062511860c92f18
-SHA256: 77a7e30755d68222e27de7af245173f26f589db246c96469a55e3d87fac1d042
-Section: System
-Priority: optional
-Homepage: http://tinyapps.cn
-Description: 【For Rootless无根越狱，如Dopamine,palera1n,Fugu15,etc】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
-Author: Tinyapps.cn
-Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
-
 Package: apt.tinyapps.XGPSPro.roothide
 Version: 4.6.4
 Architecture: iphoneos-arm64e
@@ -1323,6 +1304,25 @@ Size: 2655884
 MD5sum: 74db0aaf0652b3951974cfcc158d28ad
 SHA1: c8340369e83b58664230b79f08981c89a6929ab5
 SHA256: d0c29578f9a841a14cc99eb8b7d95e09328e7f6495f04b8d254284825d6884a3
+Section: System
+Priority: optional
+Homepage: http://tinyapps.cn
+Description: 【For Rootless无根越狱，如Dopamine,palera1n,Fugu15,etc】 CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. 经典的iPhone定位修改伪装插件，适合微信、口袋妖怪、微博、QQ、陌陌、美团、钉钉、口袋助理等地理位置应用。support all jailbroken devices(5.1.1+)。支持所有越狱设备(5.1.1+)。 iPad, iPod Touch. 完美兼容最新越狱。
+Author: Tinyapps.cn
+Name: Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish
+
+Package: apt.tinyapps.XGPSPro.rootless
+Version: 4.6.9
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
+Filename: debs/apt.tinyapps.XGPSPro.rootless_4.6.9_iphoneos-arm64.deb
+Size: 2655786
+MD5sum: c73b89d2c257bf9f6ea173a4d0538697
+SHA1: 418767e3cac1d8e19cef81281b01bb5d5aa7b84e
+SHA256: 40e4b911c3b3e4d985b105f85376716613cad6fbd8368e2c77455f3a0752f95b
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
