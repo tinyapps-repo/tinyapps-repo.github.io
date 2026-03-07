@@ -1110,10 +1110,10 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Filename: debs/apt.tinyapps.XGPSPro_4.6.9_iphoneos-arm.deb
-Size: 2700652
-MD5sum: b110577074b31b1336f9a69212f59a99
-SHA1: e17442bd0b6aca7cf1659d2783adf78d8b43d519
-SHA256: 0a75dc6d4872a99e89607590d02d9178248379cf7d041980d21c7c7795ee824a
+Size: 2700570
+MD5sum: 868cf425a99c36deac58ba0da6c2f726
+SHA1: a9d76995763966890aac877ad11be0dce9ec4b16
+SHA256: cc56119c19f2fe4d32a4832ac0021007b54746d19c5ef710cc0aadd33f9c9f14
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
@@ -1205,10 +1205,10 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Filename: debs/apt.tinyapps.XGPSPro.roothide_4.6.9_iphoneos-arm64e.deb
-Size: 2498908
-MD5sum: fb5f4278988ae8f7ca8d8b2c2c42628b
-SHA1: f8f772617ffce5fa5f20cf45221de8873756fea1
-SHA256: 24e2306c3a661000a220932445129cec2f6b2269e1571d23f817f487b8f54773
+Size: 2498922
+MD5sum: d055a50baf1993ff2c90bf2bd656ff07
+SHA1: 0113a5845b85d34b3b0bbf750d8cdab89611797a
+SHA256: 16c38e5f30b76b3502c3064d79c7ec8fbca15f8cd9aaef1bcd99d1f939e03e92
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
@@ -1319,10 +1319,10 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360pro, app.weiphone.tinyapps.location360pro,cn.tinyapps.location360proex, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app, cn.tinyapps.pogo, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.location360pro, me.liuming.locationhelper
 Filename: debs/apt.tinyapps.XGPSPro.rootless_4.6.9_iphoneos-arm64.deb
-Size: 2655786
-MD5sum: c73b89d2c257bf9f6ea173a4d0538697
-SHA1: 418767e3cac1d8e19cef81281b01bb5d5aa7b84e
-SHA256: 40e4b911c3b3e4d985b105f85376716613cad6fbd8368e2c77455f3a0752f95b
+Size: 2465118
+MD5sum: 0bc723fd5c6ff7680b458f3b5ea80dd1
+SHA1: d1f94792be989be46d4dcfb44d8b1d29fb3677b8
+SHA256: c38ef1a30bedc812d8c996b3f7e7b6d0987a647cea8cf02a606ef08246dc23d7
 Section: System
 Priority: optional
 Homepage: http://tinyapps.cn
@@ -1462,6 +1462,44 @@ Homepage: tinyapps@qq.com
 Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
 Author: tinyapps@qq.com
 Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
+
+Package: apt.tinyapps.location360pro
+Version: 3.0.11
+Architecture: iphoneos-arm
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.11_iphoneos-arm.deb
+Size: 10598334
+MD5sum: 51d736a876b1a4d27070d8535cebbafa
+SHA1: 34732319fe560efe20475dd9acd2e56a7f9458d8
+SHA256: 0a6606c8d15d268ca9e7413cf4de8a1ac330d3b0209d2704c55a241c81e75f75
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro.Rootful 有根越狱for iOS 5.1.1~16.4 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.4所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
+
+Package: apt.tinyapps.location360pro
+Version: 3.0.11
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro_3.0.11_iphoneos-arm64.deb
+Size: 10533902
+MD5sum: 4381a4d2bfe636ec44fe4b3ff6771c17
+SHA1: 590b00ed83af834be35bd659f2b6e0a0b1d3946d
+SHA256: 2052534dbe18a57b7c709a70678b80b78ec563be56130c5ee231a1af1110821e
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootless无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.6.1所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
 
 Package: apt.tinyapps.location360pro
 Version: 3.0.2
