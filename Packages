@@ -1483,25 +1483,6 @@ Author: tinyapps@qq.com
 Name: 360虚拟定位[企业版](Fake Location Pro)-Root有根越狱
 
 Package: apt.tinyapps.location360pro
-Version: 3.0.11
-Architecture: iphoneos-arm64
-Maintainer: tinyapps@qq.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
-Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
-Filename: debs/apt.tinyapps.location360pro_3.0.11_iphoneos-arm64.deb
-Size: 10533902
-MD5sum: 4381a4d2bfe636ec44fe4b3ff6771c17
-SHA1: 590b00ed83af834be35bd659f2b6e0a0b1d3946d
-SHA256: 2052534dbe18a57b7c709a70678b80b78ec563be56130c5ee231a1af1110821e
-Section: System
-Priority: optional
-Homepage: tinyapps@qq.com
-Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootless无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.6.1所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
-Author: tinyapps@qq.com
-Name: 360虚拟定位[企业版](Fake Location Pro)
-
-Package: apt.tinyapps.location360pro
 Version: 3.0.2
 Architecture: iphoneos-arm
 Maintainer: tinyapps@qq.com
@@ -1684,6 +1665,25 @@ Size: 10535660
 MD5sum: 25f249b99b32e9892c555c8f25315ca8
 SHA1: 2dd974ce0ac4bf23ac5706a1df76320a58e80c6b
 SHA256: 46e796121e2f11c2db792ab1d50498a267072343d9e7e584815990deb2566d88
+Section: System
+Priority: optional
+Homepage: tinyapps@qq.com
+Description: Fake Location Pro. for iOS 5.1.1~16.4 Rootless无根越狱 Supports 3 location-faking modes: STATIC, DYNAMIC SWEEP, FAKE DRIVE.支持5.1.1~16.6.1所有iOS越狱设备。针对任意位置进行定点、定区域、定路线的精准营销(拓展微信、QQ，微博粉丝，发放推广信息)。虚拟定位、随机扫街、路径扫街、模拟导航四种虚拟定位模式。
+Author: tinyapps@qq.com
+Name: 360虚拟定位[企业版](Fake Location Pro)
+
+Package: apt.tinyapps.location360pro.rootless
+Version: 3.0.11
+Architecture: iphoneos-arm64
+Maintainer: tinyapps@qq.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Replaces: cn.tinyapps.XGPS, cn.tinyapps.location360, cn.tinyapps.location360proex, cn.tinyapps.XGPSPro, cn.tinyapps.XGPSLite, cn.tinyapps.XGPSFree, com.locaspriti.app, com.txyapp.app
+Filename: debs/apt.tinyapps.location360pro.rootless_3.0.11_iphoneos-arm64.deb
+Size: 10534054
+MD5sum: f04ce931d316876ab36bf4a2d7ef1159
+SHA1: bc9b33c6c154978a3a4c153e0fa87f36c5d45b02
+SHA256: 5ed7694e8b52675c6c55372533dc2aa00f684dbd29f66742089067b8d73047b0
 Section: System
 Priority: optional
 Homepage: tinyapps@qq.com
