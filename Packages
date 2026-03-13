@@ -603,6 +603,57 @@ Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜
 Author: Tinyapps.cn
 Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
 
+Package: apt.tinyapps.RST
+Version: 2.4.2.3
+Architecture: iphoneos-arm64
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.2.3_iphoneos-arm64.deb
+Size: 7368974
+MD5sum: 17b67c19c14cc430751c49667b8bd277
+SHA1: 33fb458f6d01da5f2c14c00c463b09c7ccff90e1
+SHA256: c1e8f29e9502d486ca37360aef17dcf0492753043aad512f069b6196627b0e7d
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootless无根越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。Rootless jailbreaks includes Dopamine, Palera1n and Fuguma15 Max 无根越狱有Palera1n和Fuguma15 Max。Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持15.0-16.6.1的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootless无根越狱版一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.2.3
+Architecture: iphoneos-arm
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.2.3_iphoneos-arm.deb
+Size: 4360230
+MD5sum: a85c2c315d0671a7e7ed6944906ed405
+SHA1: fc8465d2d26b2f313b6310c1707ec20d5d11660e
+SHA256: fadf3e2066ab26d5dc43ed0a66e5d96a98039fa539f6c2a486381d5f362092e5
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: MultiAccount Master(361一键新机)-Rootful有根版本-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-Rootful有根版本-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串
+
+Package: apt.tinyapps.RST
+Version: 2.4.2.3
+Architecture: iphoneos-arm64e
+Maintainer: Tinyapps.cn
+Depends: firmware (>= 5.1.1), mobilesubstrate
+Filename: debs/apt.tinyapps.RST_2.4.2.3_iphoneos-arm64e.deb
+Size: 7144536
+MD5sum: 544e751501a958893b1bf7688c675848
+SHA1: 51a7f6890309c1164c68dc2259b693df90709c84
+SHA256: c7a9248dfbda88566aa31a91e41353c9d34f8c5fbf8e6c5398a11ff83514c1d6
+Section: System
+Priority: optional
+Homepage: Tinyapps.cn
+Description: (for RootHide)Support Dopamine RootHide,Bootstrap, Serotonin。支持Dopamine, Bootstrap, Serotonin。MultiAccount Master(361一键新机)-RootHide越狱版-傻瓜式改串-Try the regular version on rootful jailbreak. 如果是传统有根越狱，请使用普通版本。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。
+Author: Tinyapps.cn
+Name: 361一键新机(MultiAccount Master)-RootHide无根越狱版一键改串
+
 Package: apt.tinyapps.Renet
 Version: 1.2
 Architecture: iphoneos-arm
